@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<WoodLog_Birch.label>bûches de bouleau</WoodLog_Birch.label>
+	<WoodLog_Birch.description>Bois brut d'un bouleau. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le bouleau est un bois dur périssable.</WoodLog_Birch.description>
+	<WoodLog_Birch.stuffProps.stuffAdjective>bouleau</WoodLog_Birch.stuffProps.stuffAdjective>
+	
+	<WoodLog_Palm.label>bûches de palmier noir</WoodLog_Palm.label>
+	<WoodLog_Palm.description>Bois brut d'un palmier noir. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le palmier noir est un bois durable.</WoodLog_Palm.description>
+	<WoodLog_Palm.stuffProps.stuffAdjective>palmier noir</WoodLog_Palm.stuffProps.stuffAdjective>
+	
+	<WoodLog_Cecropia.label>bûches de cecropia</WoodLog_Cecropia.label>
+	<WoodLog_Cecropia.description>Bois brut d'un arbre cécropia. Une fois traité, il devient utile dans les armes, les outils, l'artisanat, les petites structures et même les prothèses simples. Le cecropia est un bois dur non durable à périssable.</WoodLog_Cecropia.description>
+	<WoodLog_Cecropia.stuffProps.stuffAdjective>cecropia</WoodLog_Cecropia.stuffProps.stuffAdjective>
+	
+	<WoodLog_Cocoa.label>bûches de bois de coco</WoodLog_Cocoa.label>
+	<WoodLog_Cocoa.description>Bois brut d'un cacaoyer. Une fois traité, il devient utile pour la construction de structures, d'armes et de prothèses simples. Le bois de coco est un bois dur non durable.</WoodLog_Cocoa.description>
+	<WoodLog_Cocoa.stuffProps.stuffAdjective>bois de coco</WoodLog_Cocoa.stuffProps.stuffAdjective>
+	
+	<WoodLog_Cypress.label>bûches de cyprès</WoodLog_Cypress.label>
+	<WoodLog_Cypress.description>Bois brut d'un cyprès. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le cyprès est un bois tendre durable.</WoodLog_Cypress.description>
+	<WoodLog_Cypress.stuffProps.stuffAdjective>cyprès</WoodLog_Cypress.stuffProps.stuffAdjective>
+	
+	<WoodLog_Drago.label>bûches de drago</WoodLog_Drago.label>
+	<WoodLog_Drago.description>Bois brut d'un drago. Une fois traité, il devient utile pour la fabrication d'outils, d'artisanat et d'autres structures de fortune. Drago est un bois dur de faible durabilité apprécié davantage pour sa résine.</WoodLog_Drago.description>
+	<WoodLog_Drago.stuffProps.stuffAdjective>drago</WoodLog_Drago.stuffProps.stuffAdjective>
+	
+	<WoodLog_Maple.label>bûches d'érable</WoodLog_Maple.label>
+	<WoodLog_Maple.description>Bois brut d'un érable. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. L'érable est un bois dur non durable à périssable.</WoodLog_Maple.description>
+	<WoodLog_Maple.stuffProps.stuffAdjective>érable</WoodLog_Maple.stuffProps.stuffAdjective>
+
+	<WoodLog_Oak.label>bûches de chêne</WoodLog_Oak.label>
+	<WoodLog_Oak.description>Bois brut d'un chêne. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le chêne est un bois dur très durable.</WoodLog_Oak.description>
+	<WoodLog_Oak.stuffProps.stuffAdjective>chêne</WoodLog_Oak.stuffProps.stuffAdjective>
+	
+	<WoodLog_Pine.label>bûches de pin</WoodLog_Pine.label>
+	<WoodLog_Pine.description>Bois brut d'un pin. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le pin est un bois tendre de durabilité moyenne à faible.</WoodLog_Pine.description>
+	<WoodLog_Pine.stuffProps.stuffAdjective>pin</WoodLog_Pine.stuffProps.stuffAdjective>
+	
+	<WoodLog_Poplar.label>bûches de peuplier</WoodLog_Poplar.label>
+	<WoodLog_Poplar.description>Bois brut d'un peuplier. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le peuplier est un bois dur non durable.</WoodLog_Poplar.description>
+	<WoodLog_Poplar.stuffProps.stuffAdjective>peuplier</WoodLog_Poplar.stuffProps.stuffAdjective>
+	
+	<WoodLog_Saguaro.label>côte de saguaro</WoodLog_Saguaro.label>
+	<WoodLog_Saguaro.description>Côtes d'un cactus saguaro. Saguaro est doux et excellent pour la fabrication d'outils, d'artisanat, de clôtures et d'autres petites structures.</WoodLog_Saguaro.description>
+	<WoodLog_Saguaro.stuffProps.stuffAdjective>côte de saguaro</WoodLog_Saguaro.stuffProps.stuffAdjective>
+
+	<WoodLog_Teak.label>bûches de teck</WoodLog_Teak.label>
+	<WoodLog_Teak.description>Bois brut d'un teck. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le teck est le bois dur le plus durable.</WoodLog_Teak.description>
+	<WoodLog_Teak.stuffProps.stuffAdjective>teck</WoodLog_Teak.stuffProps.stuffAdjective>
+	
+	<WoodLog_Willow.label>bûches de saule</WoodLog_Willow.label>
+	<WoodLog_Willow.description>Bois brut d'un saule. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le saule est un bois dur non durable.</WoodLog_Willow.description>
+	<WoodLog_Willow.stuffProps.stuffAdjective>saule</WoodLog_Willow.stuffProps.stuffAdjective>
+	
+	<Bamboo.label>bambou brut</Bamboo.label>
+	<Bamboo.description>Bambou brut. Une fois traité, il devient utile pour la construction de structures, d'armes et même de prothèses simples. Le bambou est une herbe périssable à croissance rapide.</Bamboo.description>
+	<Bamboo.stuffProps.stuffAdjective>bambou</Bamboo.stuffProps.stuffAdjective>
+
+</LanguageData>

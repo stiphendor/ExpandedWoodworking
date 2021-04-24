@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<LumberBirch.label>bois de bouleau</LumberBirch.label>
+	<LumberBirch.description>Bois de bouleau transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le bouleau est un bois dur périssable.</LumberBirch.description>
+	<LumberBirch.stuffProps.stuffAdjective>bouleau</LumberBirch.stuffProps.stuffAdjective>
+	
+	<LumberPalm.label>bois de palmier noir</LumberPalm.label>
+	<LumberPalm.description>Bois de palmier noir traité. Principalement utile pour la construction de structures et de meubles simples et durables. Le palmier noire est un bois durable.</LumberPalm.description>
+	<LumberPalm.stuffProps.stuffAdjective>palmier noir</LumberPalm.stuffProps.stuffAdjective>
+	
+	<LumberCecropia.label>bois de cecropia</LumberCecropia.label>
+	<LumberCecropia.description>Bois de cecropia transformé. Principalement utile pour la construction de structures simples, d'outils et de prothèses simples. Cecropia est un bois dur non durable à périssable.</LumberCecropia.description>
+	<LumberCecropia.stuffProps.stuffAdjective>cecropia</LumberCecropia.stuffProps.stuffAdjective>
+	
+	<LumberCocoa.label>bois de coco</LumberCocoa.label>
+	<LumberCocoa.description>Bois de coco transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le bois de coco est un bois dur non durable.</LumberCocoa.description>
+	<LumberCocoa.stuffProps.stuffAdjective>bois de coco</LumberCocoa.stuffProps.stuffAdjective>
+	
+	<LumberCypress.label>bois de cyprès</LumberCypress.label>
+	<LumberCypress.description>Bois de cyprès transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le cyprès est un bois tendre durable.</LumberCypress.description>
+	<LumberCypress.stuffProps.stuffAdjective>cyprès</LumberCypress.stuffProps.stuffAdjective>
+	
+	<LumberDrago.label>bois de drago</LumberDrago.label>
+	<LumberDrago.description>Bois de drago transformé. Mostly useful for building makeshift structures, handicrafts and furniture. Drago est un bois dur à faible durabilité.</LumberDrago.description>
+	<LumberDrago.stuffProps.stuffAdjective>drago</LumberDrago.stuffProps.stuffAdjective>
+	
+	<LumberMaple.label>bois d'érable</LumberMaple.label>
+	<LumberMaple.description>Bois d'érable transformé. Principalement utile pour la construction de structures et de meubles simples et durables. L'érable est un bois dur non durable à périssable.</LumberMaple.description>
+	<LumberMaple.stuffProps.stuffAdjective>érable</LumberMaple.stuffProps.stuffAdjective>
+	
+	<WoodLog.label>bois mixte</WoodLog.label>
+	<WoodLog.description>Différents types de bois tous regroupés. Principalement utile pour la construction de structures et de meubles simples et durables. Pour quand vous vous souciez plus de la fonction que de la forme.</WoodLog.description>
+	<WoodLog.stuffProps.stuffAdjective>bois</WoodLog.stuffProps.stuffAdjective>
+	
+	<LumberOak.label>bois de chêne</LumberOak.label>
+	<LumberOak.description>Bois de chêne transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le chêne est un bois dur très durable.</LumberOak.description>
+	<LumberOak.stuffProps.stuffAdjective>oak</LumberOak.stuffProps.stuffAdjective>
+	
+	<LumberPine.label>bois de pin</LumberPine.label>
+	<LumberPine.description>Bois de pin transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le pin est un bois tendre de durabilité moyenne à faible.</LumberPine.description>
+	<LumberPine.stuffProps.stuffAdjective>pin</LumberPine.stuffProps.stuffAdjective>
+	
+	<LumberPoplar.label>bois de peuplier</LumberPoplar.label>
+	<LumberPoplar.description>Bois de peuplier transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le peuplier est un bois dur non durable.</LumberPoplar.description>
+	<LumberPoplar.stuffProps.stuffAdjective>peuplier</LumberPoplar.stuffProps.stuffAdjective>
+	
+	<LumberTeak.label>bois de teck</LumberTeak.label>
+	<LumberTeak.description>Bois de teck transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le teck est le bois dur le plus durable.</LumberTeak.description>
+	<LumberTeak.stuffProps.stuffAdjective>teck</LumberTeak.stuffProps.stuffAdjective>
+	
+	<LumberWillow.label>bois de saule</LumberWillow.label>
+	<LumberWillow.description>Bois de saule transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le saule est un bois dur non durable.</LumberWillow.description>
+	<LumberWillow.stuffProps.stuffAdjective>saule</LumberWillow.stuffProps.stuffAdjective>
+	
+	<LumberBamboo.label>bois de bambou</LumberBamboo.label>
+	<LumberBamboo.description>Bois de bambou transformé. Principalement utile pour la construction de structures et de meubles simples et durables. Le bambou est une herbe périssable à croissance rapide.</LumberBamboo.description>
+	<LumberBamboo.stuffProps.stuffAdjective>bambou</LumberBamboo.stuffProps.stuffAdjective>
+
+</LanguageData>

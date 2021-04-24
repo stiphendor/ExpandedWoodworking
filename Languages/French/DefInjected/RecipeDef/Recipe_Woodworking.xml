@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MakeWoodLumberAny.label>faire du bois</MakeWoodLumberAny.label>
+	<MakeWoodLumberAny.description>tranformer les bûches brutes en bois pour la construction.</MakeWoodLumberAny.description>
+	<MakeWoodLumberAny.jobString>transforme des bûches en bois.</MakeWoodLumberAny.jobString>
+	
+	<MakeWoodLumberMixedBundle.label>regrouper le bois</MakeWoodLumberMixedBundle.label>
+	<MakeWoodLumberMixedBundle.description>Regroupez des morceaux de bois.</MakeWoodLumberMixedBundle.description>
+	<MakeWoodLumberMixedBundle.jobString>transforme des bûches en bois.</MakeWoodLumberMixedBundle.jobString>
+	
+	<MakeWoodLumberMixed.label>faire du bois mixte</MakeWoodLumberMixed.label>
+	<MakeWoodLumberMixed.description>Transformez toutes sorte de bûches en bois pour la construction.</MakeWoodLumberMixed.description>
+	<MakeWoodLumberMixed.jobString>transforme des bûches en bois.</MakeWoodLumberMixed.jobString>
+	
+	<MakeWoodLumberBirch.label>faire du bois de bouleau</MakeWoodLumberBirch.label>
+	<MakeWoodLumberBirch.description>Transformez les bûches de bouleau brutes en bois pour la construction.</MakeWoodLumberBirch.description>
+	<MakeWoodLumberBirch.jobString>transforme des bûches en bois.</MakeWoodLumberBirch.jobString>
+	
+	<MakeWoodLumberPalm.label>faire de bois de palme noir</MakeWoodLumberPalm.label>
+	<MakeWoodLumberPalm.description>Transformez les bûches de palmier noires brutes en bois pour la construction.</MakeWoodLumberPalm.description>
+	<MakeWoodLumberPalm.jobString>transforme des bûches en bois.</MakeWoodLumberPalm.jobString>
+	
+	<MakeWoodLumberCecropia.label>faire cecropia lumber</MakeWoodLumberCecropia.label>
+	<MakeWoodLumberCecropia.description>Transformez les bûches de cécropie en bois pour la construction.</MakeWoodLumberCecropia.description>
+	<MakeWoodLumberCecropia.jobString>transforme des bûches en bois.</MakeWoodLumberCecropia.jobString>
+	
+	<MakeWoodLumberCocoa.label>faire cocoawood lumber</MakeWoodLumberCocoa.label>
+	<MakeWoodLumberCocoa.description>Transformez les bûches de bois de coco en bois pour la construction.</MakeWoodLumberCocoa.description>
+	<MakeWoodLumberCocoa.jobString>transforme des bûches en bois.</MakeWoodLumberCocoa.jobString>
+	
+	<MakeWoodLumberCypress.label>faire cypress lumber</MakeWoodLumberCypress.label>
+	<MakeWoodLumberCypress.description>Transformez les bûches de cyprès en bois pour la construction.</MakeWoodLumberCypress.description>
+	<MakeWoodLumberCypress.jobString>transforme des bûches en bois.</MakeWoodLumberCypress.jobString>
+	
+	<MakeWoodLumberDrago.label>faire drago lumber</MakeWoodLumberDrago.label>
+	<MakeWoodLumberDrago.description>Transformez les bûches de drago en bois pour la construction.</MakeWoodLumberDrago.description>
+	<MakeWoodLumberDrago.jobString>transforme des bûches en bois.</MakeWoodLumberDrago.jobString>
+	
+	<MakeWoodLumberMaple.label>faire maple lumber</MakeWoodLumberMaple.label>
+	<MakeWoodLumberMaple.description>Transformez les bûches d'érable en bois pour la construction.</MakeWoodLumberMaple.description>
+	<MakeWoodLumberMaple.jobString>transforme des bûches en bois.</MakeWoodLumberMaple.jobString>
+	
+	<MakeWoodLumberOak.label>faire oak lumber</MakeWoodLumberOak.label>
+	<MakeWoodLumberOak.description>Transformez les bûches de chêne en bois pour la construction.</MakeWoodLumberOak.description>
+	<MakeWoodLumberOak.jobString>transforme des bûches en bois.</MakeWoodLumberOak.jobString>
+	
+	<MakeWoodLumberPine.label>faire pine lumber</MakeWoodLumberPine.label>
+	<MakeWoodLumberPine.description>Transformez les bûches de pin en bois pour la construction.</MakeWoodLumberPine.description>
+	<MakeWoodLumberPine.jobString>transforme des bûches en bois.</MakeWoodLumberPine.jobString>
+	
+	<MakeWoodLumberPoplar.label>faire poplar lumber</MakeWoodLumberPoplar.label>
+	<MakeWoodLumberPoplar.description>Transformez les bûches de peuplier en bois pour la construction.</MakeWoodLumberPoplar.description>
+	<MakeWoodLumberPoplar.jobString>transforme des bûches en bois.</MakeWoodLumberPoplar.jobString>
+	
+	<MakeWoodLumberTeak.label>faire teak lumber</MakeWoodLumberTeak.label>
+	<MakeWoodLumberTeak.description>Transformez les bûches de teck en bois pour la construction.</MakeWoodLumberTeak.description>
+	<MakeWoodLumberTeak.jobString>transforme des bûches en bois.</MakeWoodLumberTeak.jobString>
+	
+	<MakeWoodLumberWillow.label>faire du bois de saule</MakeWoodLumberWillow.label>
+	<MakeWoodLumberWillow.description>Transformez les bûches de saule en bois pour la construction.</MakeWoodLumberWillow.description>
+	<MakeWoodLumberWillow.jobString>transforme des bûches en bois.</MakeWoodLumberWillow.jobString>
+	
+	<MakeWoodLumberBamboo.label>faire du bois de bambou</MakeWoodLumberBamboo.label>
+	<MakeWoodLumberBamboo.description>Transformez les bûches de bambou en bois pour la construction.</MakeWoodLumberBamboo.description>
+	<MakeWoodLumberBamboo.jobString>transforme des bûches en bois.</MakeWoodLumberBamboo.jobString>
+	
+	<MakeWoodLumberMixedHand.label>faire du bois à la main</MakeWoodLumberMixedHand.label>
+	<MakeWoodLumberMixedHand.description>Transformez à la main toutes les bûches brutes en bois pour la construction. C'est un travail fastidieux.</MakeWoodLumberMixedHand.description>
+	<MakeWoodLumberMixedHand.jobString>transforme des bûches en bois.</MakeWoodLumberMixedHand.jobString>
+	
+</LanguageData>

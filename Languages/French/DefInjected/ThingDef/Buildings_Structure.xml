@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<EW_LogWall.label>mur en rondins</EW_LogWall.label>
+	<EW_LogWall.description>Un mur fait de rondins empilés les uns sur les autres. Solide et très rapide à construire, mais inflammable et ne transmet pas de puissance.</EW_LogWall.description>
+	<Blueprint_EW_LogWall.label>mur en rondins</Blueprint_EW_LogWall.label>
+	<Frame_EW_LogWall.label>mur en rondins</Frame_EW_LogWall.label>
+	<Frame_EW_LogWall.description>Un mur fait de rondins empilés les uns sur les autres. Solide et très rapide à construire, mais inflammable et ne transmet pas de puissance.</Frame_EW_LogWall.description>
+	
+</LanguageData>

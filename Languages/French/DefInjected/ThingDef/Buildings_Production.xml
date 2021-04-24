@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TableWoodworking.label>établi de menuisier</TableWoodworking.label>
+	<TableWoodworking.description>Une table à bois actionnée par le pied. Fonctionne à 60% de la vitesse d'une table à bois électrique.</TableWoodworking.description>
+	<Blueprint_TableWoodworking.label>établi de menuisier (plan)</Blueprint_TableWoodworking.label>
+	<Frame_TableWoodworking.label>établi de menuisier (construction)</Frame_TableWoodworking.label>
+	<Frame_TableWoodworking.description>Une table à bois actionnée par le pied. Fonctionne à 60% de la vitesse d'une table à bois électrique.</Frame_TableWoodworking.description>
+	
+	<ElectricTableWoodworking.label>établi de menuisier électrique</ElectricTableWoodworking.label>
+	<ElectricTableWoodworking.description>Une table à bois électrique. Peut fonctionner sans électricité à 60% de la vitesse normale.</ElectricTableWoodworking.description>
+	<Blueprint_ElectricTableWoodworking.label>établi de menuisier électrique (plan)</Blueprint_ElectricTableWoodworking.label>
+	<Frame_ElectricTableWoodworking.label>établi de menuisier électrique (construction)</Frame_ElectricTableWoodworking.label>
+	<Frame_ElectricTableWoodworking.description>Une table à bois électrique. Peut fonctionner sans électricité à 60% de la vitesse normale.</Frame_ElectricTableWoodworking.description>
+
+</LanguageData>
